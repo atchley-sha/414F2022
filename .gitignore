@@ -1,6 +1,6 @@
 **/data
 **/.backups
-**/*.gdb
+**.gdb
 **/ImportLog
 **/Index
 **/GpMessages
